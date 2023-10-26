@@ -66,6 +66,7 @@ var sumCubes = function (numbers) {
  */
 
 // Part 3
+
 // 1.
 var values = [10, 20, 30];
 
