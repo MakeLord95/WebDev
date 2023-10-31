@@ -2,7 +2,7 @@ function Greeting(props) {
   console.log(props);
 
   return (
-    <div>
+    <div className="greeting">
       <h1>Welcome, {props.name}!</h1>
       <p>{props.message}</p>
     </div>
