@@ -21,8 +21,6 @@ I was thoroughly involved in all the class activities and project planning.
 
 ## Reflection
 
-
-
 ### Challenges Faced
 
 I didn't face any difficulties. I'm hoping to keep it that way during the entire period. :)
