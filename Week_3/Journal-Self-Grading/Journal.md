@@ -62,3 +62,5 @@ This week has been the most fun so far. I'm really proud of my work in both the 
 Now my main focus will be on finishing Sprint 2.
 
 Week 4: [Date]
+
+ps. Unfortunately my computer crashed during the afternoon project pair programming session, and I was unable to rejoin. I'm taking all the measures to ensure this won't happen again.
