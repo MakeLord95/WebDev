@@ -23,7 +23,7 @@ I was thoroughly involved in all the class activities and project planning.
 
 ### Challenges Faced
 
-I didn't face any difficulties this week. Hoping to keep it that way for the rest of the period.
+The only problem I faced this week was that my computer crashed during Thursday afternoon pair programming session. I was unable to join back to the Zoom meeting, but managed to finish the programming task alone. I just feel bad for my pair.
 
 ### What Went Well and Lessons Learned
 
@@ -61,6 +61,6 @@ This week has been the most fun so far. I'm really proud of my work in both the 
 
 Now my main focus will be on finishing Sprint 2.
 
-Week 4: [Date]
+Week 4: 9.11.2023
 
 ps. Unfortunately my computer crashed during the afternoon project pair programming session, and I was unable to rejoin. I'm taking all the measures to ensure this won't happen again.
