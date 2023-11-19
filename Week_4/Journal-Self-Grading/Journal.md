@@ -27,7 +27,7 @@ I didn't face any difficulties this week.
 
 ### What Went Well and Lessons Learned
 
-All of the class activities went well. I was able to accomplish the goals set by the activities and I'm proud of myself and the progress I'm making.
+All of the class activities went well. I was able to accomplish most of the goals set by the activities and I'm proud of myself and the progress I'm making.
 
 - Key Learning:
 
