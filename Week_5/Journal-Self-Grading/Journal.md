@@ -31,7 +31,7 @@ I think that all of the class activities went well. I was able to accomplish all
 
 - Key Learning:
 
-I learned how to use React, to make cool looking apps. I also got more familiar with JavaScript and Node.js
+I learned how to hash and salt passwords for safe database storage. I also learned how to implement MongoDB usage using Mongoose
 
 - Online Resources:
 
